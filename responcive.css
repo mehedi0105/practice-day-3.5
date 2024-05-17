@@ -1,0 +1,153 @@
+@media only screen and (min-width: 350px) and (max-width: 767px) {
+  .navbar-brand img {
+    width: 40% !important;
+    height: 36px;
+  }
+  .fa-magnifying-glass {
+    visibility: hidden;
+  }
+  .navbar-toggler {
+    margin-right: 0px !important;
+  }
+  .navbar-brand {
+    width: 40%;
+    margin-right: 132px !important;
+  }
+  .navbar-search {
+    margin-top: -45px;
+  }
+  .navbar-search .btn {
+    padding: 10px !important;
+  }
+  .banner-container {
+    margin-top: 0px !important;
+  }
+  .banner-text {
+    position: static !important;
+    width: 100% !important;
+    margin-top: 5%;
+    padding-bottom: 5px !important;
+  }
+  .title {
+    font-size: 16px;
+    padding-bottom: 0px !important;
+  }
+  .carousel-control-next {
+    left: 188px;
+    top: 115px;
+  }
+  .carousel-control-prev {
+    left: 133px;
+    top: 115px;
+  }
+  .banner-description {
+    font-size: smaller;
+  }
+  .about-us {
+    margin-top: 45px !important;
+    padding: 20px !important;
+  }
+  .about-title {
+    font-size: 20px;
+  }
+  .description {
+    width: 100%;
+    font-size: small;
+  }
+  .about-skill {
+    display: block !important;
+  }
+  .card {
+    margin-bottom: 5%;
+  }
+  .progam-details-1 {
+    display: block !important;
+  }
+  .program-box1 {
+    margin-bottom: 20px;
+  }
+  .box-group {
+    padding: 15px !important;
+  }
+  .box-group p {
+    width: 100% !important;
+  }
+  .program-title {
+    font-size: 20px;
+  }
+  .product-box,
+  .product-price {
+    display: block !important;
+  }
+  .product {
+    display: block !important;
+    width: 100%;
+  }
+  .product-img img {
+    width: 100% !important;
+    height: 172px !important;
+  }
+  .clints-img {
+    width: 100% !important;
+  }
+  .row {
+    padding: 0px !important;
+  }
+  .form-container {
+    margin-top: 20px;
+    padding-left: 15px !important;
+  }
+  .social-media {
+    margin-top: 36px;
+    width: 95%;
+  }
+  .res {
+    font-size: 15px !important;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+  banner-container {
+    margin-top: 0px !important;
+  }
+  .banner-text {
+    position: static !important;
+    width: 100% !important;
+    margin-top: 2%;
+    padding-bottom: 5px !important;
+  }
+  .title {
+    font-size: 25px;
+    padding-bottom: 0px !important;
+  }
+  .carousel-control-next {
+    left: 400px;
+    top: 250px;
+  }
+  .carousel-control-prev {
+    left: 280px;
+    top: 250px;
+  }
+  .card-title {
+    font-size: medium;
+  }
+  .card-text {
+    font-size: small;
+  }
+  .progam-details-1 {
+    display: block !important;
+  }
+  .program-box1 {
+    margin-bottom: 20px;
+  }
+  .pogram-description {
+    width: 90% !important;
+  }
+
+  .clints-img {
+    align-items: center !important;
+  }
+  .form-container {
+    margin-top: 20px;
+    padding-left: 15px !important;
+  }
+}

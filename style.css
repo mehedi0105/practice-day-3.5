@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+* {
+  font-family: "Manrope", sans-serif;
+}
+.nav-link {
+  color: #424247 !important;
+}
+.btn {
+  background-color: #ff4240;
+  border: none;
+}
+.btn:hover {
+  background-color: #ff4240;
+}
+
+.carousel-control-next {
+  left: 180px;
+  height: 10%;
+  width: 5%;
+  top: 85%;
+  border-radius: 50%;
+  background-color: black;
+}
+.carousel-control-prev {
+  height: 10%;
+  width: 5%;
+  top: 85%;
+  left: 5%;
+  border-radius: 50%;
+  background-color: black;
+}
+.banner-text {
+  background-color: black;
+  width: 45%;
+  right: 0%;
+  bottom: 3%;
+}
+.banner-description {
+  color: white;
+  opacity: 60%;
+}
+.about-us {
+  margin-top: 75px;
+  border-top: 1px dashed rgb(151, 148, 148);
+  border-bottom: 1px dashed rgb(151, 148, 148);
+}
+.about-title {
+  font-size: 36px;
+}
+.description {
+  width: 55%;
+  color: #131318 !important;
+}
+.card {
+  border: none;
+}
+.box-group {
+  height: 338px;
+  background-image: url(images/2.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 45px;
+  font-weight: 500;
+}
+.program-box1 {
+  background-image: url(images/2.png);
+}
+.program-box2 {
+  background-image: url(images/3.png);
+}
+.program-box3 {
+  background-image: url(images/4.png);
+}
+.pogram-description {
+  width: 45%;
+}
+.fa-star {
+  color: #f99808;
+}
+.price {
+  color: #ff4240;
+}
+.product {
+  width: 49%;
+}
+
+.row > .pt-1 > .card1 {
+  background-color: #5ffd81;
+}
+.row > .pt-1 > .card2 {
+  background-color: #fddd5f;
+}
+.row > .pt-1 > .card3 {
+  background-color: #629cf3;
+}
+.form-group > .banf,
+textarea.banf,
+.form-group > .banf,
+textarea.banf :hover,
+.social-media {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+footer {
+  background-color: #131318;
+  color: white;
+}
+.text {
+  color: rgba(133, 121, 121);
+}
+
+footer a {
+  text-decoration: none;
+  font-size: 20px;
+  color: rgba(133, 121, 121);
+}
